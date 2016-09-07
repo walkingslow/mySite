@@ -1,3 +1,4 @@
 # mySite
 
+testing cli
 test
