@@ -3,5 +3,5 @@
 ### my site
 
 testing cli
-this page was created for [kevin wu](www.google.com)
+this page was created for [test](www.google.com)
 test
